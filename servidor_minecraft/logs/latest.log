@@ -805,3 +805,64 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 16:33:42.860] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
 [09Dec2024 16:33:53.160] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
 [09Dec2024 16:33:57.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Teleported tomy-- to sexodonfrix]
+[09Dec2024 16:34:05.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Teleported sexodonfrix to tomy--]
+[09Dec2024 16:34:06.895] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:34:20.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomy-- was slain by sexodonfrix
+[09Dec2024 16:34:24.767] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[09Dec2024 16:34:43.261] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:peeping_tom_idle but it was marked as removed already
+[09Dec2024 16:34:43.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Teleported tomy-- to sexodonfrix]
+[09Dec2024 16:35:01.866] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[09Dec2024 16:35:01.867] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[09Dec2024 16:35:15.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Teleported tomy-- to sexodonfrix]
+[09Dec2024 16:35:18.913] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[09Dec2024 16:35:33.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[09Dec2024 16:35:33.613] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[09Dec2024 16:35:33.614] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[09Dec2024 16:35:33.615] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[09Dec2024 16:36:03.210] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:36:07.262] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:peeping_tom_idle but it was marked as removed already
+[09Dec2024 16:36:22.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Gave 30 [Torch] to tomy--]
+[09Dec2024 16:36:25.810] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:36:27.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:weeping_soul but it was marked as removed already
+[09Dec2024 16:36:54.412] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:36:54.661] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:36:58.687] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:37:54.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Teleported sexodonfrix to tomy--]
+[09Dec2024 16:38:00.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Teleported sexodonfrix to tomy--]
+[09Dec2024 16:38:02.463] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:38:02.464] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:38:02.513] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:happy but it was marked as removed already
+[09Dec2024 16:38:02.613] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:38:03.009] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:peeping_tom_idle but it was marked as removed already
+[09Dec2024 16:38:13.610] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:38:15.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Teleported sexodonfrix to tomy--]
+[09Dec2024 16:38:20.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Teleported sexodonfrix to tomy--]
+[09Dec2024 16:39:09.110] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:weeping_soul but it was marked as removed already
+[09Dec2024 16:39:24.562] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[09Dec2024 16:39:25.761] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[09Dec2024 16:39:31.213] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[09Dec2024 16:39:31.214] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[09Dec2024 16:39:40.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sexodonfrix was slain by The Locust
+[09Dec2024 16:40:01.561] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:40:10.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Teleported tomy-- to sexodonfrix]
+[09Dec2024 16:40:13.362] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:peeping_tom_idle but it was marked as removed already
+[09Dec2024 16:40:31.675] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:40:38.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomy-- has completed the challenge [Back To Hell]
+[09Dec2024 16:40:48.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sexodonfrix was slain by The Damned
+[09Dec2024 16:40:55.654] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[09Dec2024 16:40:55.655] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[09Dec2024 16:40:56.760] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:40:56.812] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:peeping_tom but it was marked as removed already
+[09Dec2024 16:41:10.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Teleported sexodonfrix to tomy--]
+[09Dec2024 16:41:15.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Teleported sexodonfrix to tomy--]
+[09Dec2024 16:41:20.363] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:42:28.754] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:john but it was marked as removed already
+[09Dec2024 16:42:45.262] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:happy but it was marked as removed already
+[09Dec2024 16:43:05.610] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:happy but it was marked as removed already
+[09Dec2024 16:43:16.461] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:43:20.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sexodonfrix lost connection: Disconnected
+[09Dec2024 16:43:20.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sexodonfrix left the game
+[09Dec2024 16:43:22.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Set own game mode to Creative Mode]
+[09Dec2024 16:43:39.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Set own game mode to Survival Mode]
+[09Dec2024 16:43:40.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomy-- lost connection: Disconnected
+[09Dec2024 16:43:40.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomy-- left the game

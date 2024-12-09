@@ -513,6 +513,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-09 03:08:55 +0000",
       "minecraft:creeper": "2024-12-09 03:05:58 +0000",
+      "minecraft:enderman": "2024-12-09 16:33:16 +0000",
       "minecraft:zombie": "2024-12-09 03:08:14 +0000"
     },
     "done": false
@@ -607,6 +608,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-09 16:31:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 16:30:31 +0000"
@@ -688,6 +695,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 16:30:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-09 16:32:35 +0000"
     },
     "done": true
   },

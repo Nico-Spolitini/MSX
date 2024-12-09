@@ -829,5 +829,23 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-09 16:31:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-09 16:37:28 +0000"
+    },
+    "done": true
+  },
+  "apollyon:back_to_hell": {
+    "criteria": {
+      "back_to_hell": "2024-12-09 16:40:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
