@@ -866,3 +866,56 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Dec2024 16:43:39.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Set own game mode to Survival Mode]
 [09Dec2024 16:43:40.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomy-- lost connection: Disconnected
 [09Dec2024 16:43:40.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomy-- left the game
+[09Dec2024 16:47:29.019] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tomy--[/127.40.163.123:34235] logged in with entity id 2423 at (-55.9701075274476, 168.0, -0.5123810589746576)
+[09Dec2024 16:47:29.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomy-- joined the game
+[09Dec2024 16:47:51.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Set own game mode to Creative Mode]
+[09Dec2024 16:47:56.652] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:48:00.660] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:giantshadow but it was marked as removed already
+[09Dec2024 16:48:00.810] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:48:11.160] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:48:16.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Applied effect Night Vision to tomy--]
+[09Dec2024 16:48:18.159] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:48:23.309] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:48:47.113] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:peeping_tom_idle but it was marked as removed already
+[09Dec2024 16:48:53.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Applied effect Night Vision to tomy--]
+[09Dec2024 16:48:56.809] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:48:59.709] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:49:14.560] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:happy but it was marked as removed already
+[09Dec2024 16:49:56.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Set own game mode to Spectator Mode]
+[09Dec2024 16:50:59.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Set own game mode to Creative Mode]
+[09Dec2024 16:51:01.061] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:happy but it was marked as removed already
+[09Dec2024 16:51:03.611] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:happy but it was marked as removed already
+[09Dec2024 16:51:36.862] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:jumpscare_starter but it was marked as removed already
+[09Dec2024 16:51:41.561] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:zombie_mimic_alternate but it was marked as removed already
+[09Dec2024 16:51:43.860] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:51:47.210] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:51:57.460] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:51:57.510] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:peeping_tom_idle but it was marked as removed already
+[09Dec2024 16:52:04.911] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:52:09.511] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:zombie_mimic_alternate but it was marked as removed already
+[09Dec2024 16:52:12.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomy-- has made the advancement [Cover Me with Diamonds]
+[09Dec2024 16:52:17.959] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:weeping_soul but it was marked as removed already
+[09Dec2024 16:52:20.060] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:52:26.910] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:happy but it was marked as removed already
+[09Dec2024 16:52:32.463] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:52:50.311] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:52:56.111] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:52:57.284] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:53:09.460] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:peeping_tom but it was marked as removed already
+[09Dec2024 16:53:38.960] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:53:55.460] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:53:55.662] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:john but it was marked as removed already
+[09Dec2024 16:53:56.524] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:weeping_soul but it was marked as removed already
+[09Dec2024 16:54:02.913] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:jumpscare_starter but it was marked as removed already
+[09Dec2024 16:54:06.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Set own game mode to Spectator Mode]
+[09Dec2024 16:56:46.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Set own game mode to Creative Mode]
+[09Dec2024 16:56:48.210] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[09Dec2024 16:56:48.211] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[09Dec2024 16:56:48.411] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:john but it was marked as removed already
+[09Dec2024 16:56:49.361] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[09Dec2024 16:57:27.412] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[09Dec2024 16:57:27.413] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[09Dec2024 16:57:27.413] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[09Dec2024 16:57:27.414] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[09Dec2024 16:58:15.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomy-- lost connection: Disconnected
+[09Dec2024 16:58:15.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomy-- left the game
