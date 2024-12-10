@@ -718,3 +718,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Dec2024 22:15:38.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (5.654s)! For help, type "help"
 [10Dec2024 22:15:38.707] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [10Dec2024 22:15:38.784] [Server thread/WARN] [ModernFix/]: Dedicated server took 52.841 seconds to load
+[10Dec2024 22:38:22.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tomy--[/127.40.163.123:57277] logged in with entity id 102 at (-55.55555923080106, 168.0, -2.422608597186646)
+[10Dec2024 22:38:22.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomy-- joined the game
+[10Dec2024 22:38:24.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2196ms or 43 ticks behind
+[10Dec2024 22:38:27.008] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:john but it was marked as removed already
+[10Dec2024 22:38:44.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5749ms or 114 ticks behind
+[10Dec2024 22:38:47.858] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:john but it was marked as removed already
+[10Dec2024 22:39:01.942] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 22:39:01.947] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 22:39:58.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Set own game mode to Creative Mode]
+[10Dec2024 22:40:21.091] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 22:40:21.094] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 22:40:37.088] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 22:41:16.140] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:weeping_soul but it was marked as removed already
+[10Dec2024 22:42:04.126] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 22:42:04.128] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 22:42:14.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[10Dec2024 22:42:58.338] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:weeping_soul but it was marked as removed already
+[10Dec2024 22:43:02.838] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:john but it was marked as removed already
+[10Dec2024 22:43:21.840] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 22:43:24.990] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 22:43:40.488] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:weeping_soul but it was marked as removed already
+[10Dec2024 22:43:45.240] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 22:44:08.891] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
