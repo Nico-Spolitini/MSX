@@ -965,3 +965,33 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Dec2024 01:59:14.689] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
 [10Dec2024 01:59:16.592] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:peeping_tom but it was marked as removed already
 [10Dec2024 01:59:18.338] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:59:55.588] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 02:00:07.889] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:peeping_tom_idle but it was marked as removed already
+[10Dec2024 02:01:28.939] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 02:01:31.090] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 02:01:55.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomy-- has made the advancement [Come on and Slam]
+[10Dec2024 02:01:58.590] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:john but it was marked as removed already
+[10Dec2024 02:02:21.583] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 02:02:21.584] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 02:03:08.012] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player tomy-- just tried to change non-editable sign
+[10Dec2024 02:03:15.889] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 02:03:38.596] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomy-- lost connection: Disconnected
+[10Dec2024 02:03:38.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomy-- left the game
+[10Dec2024 02:05:02.607] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tomy--[/127.40.163.123:49967] logged in with entity id 6780 at (-54.64737746674046, 164.0, 3.300000011920929)
+[10Dec2024 02:05:02.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tomy-- joined the game
+[10Dec2024 02:05:12.639] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 02:05:12.640] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 02:05:12.641] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 02:05:12.641] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 02:05:12.642] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 02:05:12.643] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 02:05:29.640] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:peeping_tom_idle but it was marked as removed already
+[10Dec2024 02:05:56.739] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 02:06:50.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Set own game mode to Survival Mode]
+[10Dec2024 02:06:57.239] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:john but it was marked as removed already
+[10Dec2024 02:06:59.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Set own game mode to Creative Mode]
+[10Dec2024 02:07:16.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Set own game mode to Survival Mode]
+[10Dec2024 02:07:57.789] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 02:07:57.790] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 02:08:41.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Set own game mode to Creative Mode]
+[10Dec2024 02:09:18.790] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
