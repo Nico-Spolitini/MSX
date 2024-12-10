@@ -10251,3 +10251,64 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Dec2024 01:49:19.170] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
 [10Dec2024 01:49:19.170] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
 [10Dec2024 01:49:19.171] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:49:39.287] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:49:43.589] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:50:32.038] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:50:32.039] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:50:32.040] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:50:32.040] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:50:38.045] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:jumpscare_starter but it was marked as removed already
+[10Dec2024 01:50:41.889] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:50:43.238] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:50:43.239] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:50:43.239] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:50:43.240] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:50:43.241] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:51:06.102] [Server thread/DEBUG] [pointblank/]: 66102 handling client fire request
+[10Dec2024 01:51:06.103] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1183449206 to 13
+[10Dec2024 01:51:06.103] [Server thread/DEBUG] [pointblank/]: 66103 - obtained hit result in 0ms
+[10Dec2024 01:51:06.103] [Server thread/DEBUG] [pointblank/]: 66103 obtained hit results
+[10Dec2024 01:51:06.103] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3d5314ae
+[10Dec2024 01:51:06.104] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-52.54, y=154.43, z=31.03] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-52.54, y=154.43, z=31.03]
+[10Dec2024 01:51:06.708] [Server thread/DEBUG] [pointblank/]: 66708 handling client fire request
+[10Dec2024 01:51:06.708] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1183449206 to 12
+[10Dec2024 01:51:06.708] [Server thread/DEBUG] [pointblank/]: 66708 - obtained hit result in 0ms
+[10Dec2024 01:51:06.708] [Server thread/DEBUG] [pointblank/]: 66708 obtained hit results
+[10Dec2024 01:51:06.708] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7adb96f
+[10Dec2024 01:51:06.709] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-52.54, y=154.43, z=31.16] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-52.54, y=154.43, z=31.16]
+[10Dec2024 01:51:07.236] [Server thread/DEBUG] [pointblank/]: 67236 handling client fire request
+[10Dec2024 01:51:07.236] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1183449206 to 11
+[10Dec2024 01:51:07.237] [Server thread/DEBUG] [pointblank/]: 67237 - obtained hit result in 1ms
+[10Dec2024 01:51:07.237] [Server thread/DEBUG] [pointblank/]: 67237 obtained hit results
+[10Dec2024 01:51:07.237] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@d190d22
+[10Dec2024 01:51:07.238] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-52.54, y=154.43, z=31.18] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-52.54, y=154.43, z=31.18]
+[10Dec2024 01:51:09.102] [Server thread/DEBUG] [pointblank/]: 69102 handling client fire request
+[10Dec2024 01:51:09.102] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 1132694427 to 4
+[10Dec2024 01:51:09.102] [Server thread/DEBUG] [pointblank/]: 69102 - obtained hit result in 0ms
+[10Dec2024 01:51:09.102] [Server thread/DEBUG] [pointblank/]: 69102 obtained hit results
+[10Dec2024 01:51:09.102] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@384a24a
+[10Dec2024 01:51:09.102] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-52.54, y=154.43, z=31.18] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-52.54, y=154.43, z=31.18]
+[10Dec2024 01:51:42.288] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:weeping_soul but it was marked as removed already
+[10Dec2024 01:52:00.388] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:52:10.938] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:53:45.815] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:phase_trigger but it was marked as removed already
+[10Dec2024 01:53:49.588] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:54:08.587] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:54:17.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 01:54:17.080] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 01:54:22.139] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:happy but it was marked as removed already
+[10Dec2024 01:55:54.189] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:55:54.288] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:55:57.538] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:55:59.088] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:56:28.443] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:56:55.087] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:57:50.988] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:58:32.790] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:58:46.589] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:59:13.538] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:giantshadow but it was marked as removed already
+[10Dec2024 01:59:14.689] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:59:16.592] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:peeping_tom but it was marked as removed already
+[10Dec2024 01:59:17.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 01:59:17.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 01:59:18.338] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
