@@ -885,3 +885,50 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Dec2024 01:39:00.637] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
 [10Dec2024 01:39:00.890] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
 [10Dec2024 01:39:01.239] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:39:09.640] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:39:14.788] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:39:26.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:39:27.640] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:39:27.641] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:39:27.641] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:39:39.239] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:peeping_tom_idle but it was marked as removed already
+[10Dec2024 01:40:07.742] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:40:21.740] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:40:33.589] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:40:33.739] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:40:47.341] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:40:47.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:40:47.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:41:05.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Removed every effect from tomy--]
+[10Dec2024 01:41:14.840] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:john but it was marked as removed already
+[10Dec2024 01:41:38.890] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:42:25.688] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:42:39.023] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:42:43.438] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:42:58.390] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:john but it was marked as removed already
+[10Dec2024 01:44:20.989] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:44:34.689] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:44:53.740] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:44:59.298] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:happy but it was marked as removed already
+[10Dec2024 01:45:25.438] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:45:29.537] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:45:37.032] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:45:37.033] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:45:37.033] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:46:07.587] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:weeping_soul but it was marked as removed already
+[10Dec2024 01:46:08.538] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:46:22.539] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:46:49.889] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:47:05.239] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:47:05.239] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:47:05.240] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:47:06.638] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:jumpscare_starter but it was marked as removed already
+[10Dec2024 01:47:08.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomy-- moved too quickly! -1.1950911636485841,-11.41212377312769,-0.1349530652100377
+[10Dec2024 01:47:10.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomy-- moved too quickly! -1.8000410090357377,-10.408991223757738,-0.39018174720187204
+[10Dec2024 01:47:11.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomy-- moved too quickly! -1.3353185183721479,-10.529193645291315,-0.33869622991538506
+[10Dec2024 01:47:27.239] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:47:37.388] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:47:58.389] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:49:19.170] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:49:19.170] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:49:19.171] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already

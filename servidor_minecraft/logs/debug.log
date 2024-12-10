@@ -10013,3 +10013,241 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Dec2024 01:39:00.637] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
 [10Dec2024 01:39:00.890] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
 [10Dec2024 01:39:01.239] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:39:09.640] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:39:12.252] [Server thread/DEBUG] [pointblank/]: 52251 handling client fire request
+[10Dec2024 01:39:12.252] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 277415455 to 3
+[10Dec2024 01:39:12.252] [Server thread/DEBUG] [pointblank/]: 52252 - obtained hit result in 0ms
+[10Dec2024 01:39:12.252] [Server thread/DEBUG] [pointblank/]: 52252 obtained hit results
+[10Dec2024 01:39:12.252] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@537fcdfc
+[10Dec2024 01:39:12.255] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-47.59, y=178.37, z=-10.62] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-47.59, y=178.37, z=-10.62]
+[10Dec2024 01:39:13.618] [Server thread/DEBUG] [pointblank/]: 53618 handling client fire request
+[10Dec2024 01:39:13.618] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 277415455 to 2
+[10Dec2024 01:39:13.619] [Server thread/DEBUG] [pointblank/]: 53619 - obtained hit result in 0ms
+[10Dec2024 01:39:13.619] [Server thread/DEBUG] [pointblank/]: 53619 obtained hit results
+[10Dec2024 01:39:13.619] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@565337b5
+[10Dec2024 01:39:13.649] [Server thread/DEBUG] [pointblank/]: Creating state 739444e6-46fb-43fb-a770-63d0759ee765
+[10Dec2024 01:39:13.667] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-47.59, y=178.37, z=-10.62] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-47.59, y=178.37, z=-10.62]
+[10Dec2024 01:39:14.788] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:39:15.105] [Server thread/DEBUG] [pointblank/]: 55105 handling client fire request
+[10Dec2024 01:39:15.105] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 277415455 to 1
+[10Dec2024 01:39:15.106] [Server thread/DEBUG] [pointblank/]: 55106 - obtained hit result in 1ms
+[10Dec2024 01:39:15.106] [Server thread/DEBUG] [pointblank/]: 55106 obtained hit results
+[10Dec2024 01:39:15.106] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@53d80880
+[10Dec2024 01:39:15.107] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-47.59, y=178.37, z=-10.62] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-47.59, y=178.37, z=-10.62]
+[10Dec2024 01:39:16.404] [Server thread/DEBUG] [pointblank/]: 56404 handling client fire request
+[10Dec2024 01:39:16.404] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 277415455 to 0
+[10Dec2024 01:39:16.404] [Server thread/DEBUG] [pointblank/]: 56404 - obtained hit result in 0ms
+[10Dec2024 01:39:16.404] [Server thread/DEBUG] [pointblank/]: 56404 obtained hit results
+[10Dec2024 01:39:16.404] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7ec5c423
+[10Dec2024 01:39:16.405] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-47.59, y=178.37, z=-10.62] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-47.59, y=178.37, z=-10.62]
+[10Dec2024 01:39:17.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 01:39:17.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 01:39:17.145] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 277415455 to 5
+[10Dec2024 01:39:26.493] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:39:27.640] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:39:27.641] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:39:27.641] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:39:39.239] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:peeping_tom_idle but it was marked as removed already
+[10Dec2024 01:39:41.918] [Server thread/DEBUG] [pointblank/]: 81918 handling client fire request
+[10Dec2024 01:39:41.919] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2036098536 to 19
+[10Dec2024 01:39:41.919] [Server thread/DEBUG] [pointblank/]: 81919 - obtained hit result in 0ms
+[10Dec2024 01:39:41.919] [Server thread/DEBUG] [pointblank/]: 81919 obtained hit results
+[10Dec2024 01:39:41.919] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@76951915
+[10Dec2024 01:39:41.920] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.71, y=169.01, z=-18.84] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.71, y=169.01, z=-18.84]
+[10Dec2024 01:39:42.378] [Server thread/DEBUG] [pointblank/]: 82378 handling client fire request
+[10Dec2024 01:39:42.378] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2036098536 to 18
+[10Dec2024 01:39:42.378] [Server thread/DEBUG] [pointblank/]: 82378 - obtained hit result in 0ms
+[10Dec2024 01:39:42.379] [Server thread/DEBUG] [pointblank/]: 82379 obtained hit results
+[10Dec2024 01:39:42.379] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@23b44c47
+[10Dec2024 01:39:42.380] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.44, y=169.01, z=-18.99] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.44, y=169.01, z=-18.99]
+[10Dec2024 01:39:42.466] [Server thread/DEBUG] [pointblank/]: 82466 handling client fire request
+[10Dec2024 01:39:42.466] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2036098536 to 17
+[10Dec2024 01:39:42.467] [Server thread/DEBUG] [pointblank/]: 82467 - obtained hit result in 0ms
+[10Dec2024 01:39:42.467] [Server thread/DEBUG] [pointblank/]: 82467 obtained hit results
+[10Dec2024 01:39:42.467] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7fd869a
+[10Dec2024 01:39:42.469] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.35, y=169.01, z=-19.04] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.35, y=169.01, z=-19.04]
+[10Dec2024 01:39:42.607] [Server thread/DEBUG] [pointblank/]: 82607 handling client fire request
+[10Dec2024 01:39:42.607] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2036098536 to 16
+[10Dec2024 01:39:42.607] [Server thread/DEBUG] [pointblank/]: 82607 - obtained hit result in 0ms
+[10Dec2024 01:39:42.607] [Server thread/DEBUG] [pointblank/]: 82607 obtained hit results
+[10Dec2024 01:39:42.607] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@1d14c0a8
+[10Dec2024 01:39:42.608] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.30, y=169.01, z=-19.06] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.30, y=169.01, z=-19.06]
+[10Dec2024 01:39:42.803] [Server thread/DEBUG] [pointblank/]: 82803 handling client fire request
+[10Dec2024 01:39:42.803] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2036098536 to 15
+[10Dec2024 01:39:42.803] [Server thread/DEBUG] [pointblank/]: 82803 - obtained hit result in 0ms
+[10Dec2024 01:39:42.803] [Server thread/DEBUG] [pointblank/]: 82803 obtained hit results
+[10Dec2024 01:39:42.803] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@43172fae
+[10Dec2024 01:39:42.804] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.26, y=169.01, z=-19.09] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.26, y=169.01, z=-19.09]
+[10Dec2024 01:39:43.003] [Server thread/DEBUG] [pointblank/]: 83003 handling client fire request
+[10Dec2024 01:39:43.003] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2036098536 to 14
+[10Dec2024 01:39:43.004] [Server thread/DEBUG] [pointblank/]: 83004 - obtained hit result in 0ms
+[10Dec2024 01:39:43.004] [Server thread/DEBUG] [pointblank/]: 83004 obtained hit results
+[10Dec2024 01:39:43.004] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@42c085ff
+[10Dec2024 01:39:43.004] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.23, y=169.01, z=-19.10] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.23, y=169.01, z=-19.10]
+[10Dec2024 01:39:43.154] [Server thread/DEBUG] [pointblank/]: 83154 handling client fire request
+[10Dec2024 01:39:43.154] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2036098536 to 13
+[10Dec2024 01:39:43.155] [Server thread/DEBUG] [pointblank/]: 83155 - obtained hit result in 0ms
+[10Dec2024 01:39:43.155] [Server thread/DEBUG] [pointblank/]: 83155 obtained hit results
+[10Dec2024 01:39:43.155] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@2962126b
+[10Dec2024 01:39:43.156] [Server thread/DEBUG] [pointblank/]: Creating state da9d6977-7aec-42b2-b519-c1332e3ff026
+[10Dec2024 01:39:43.160] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.21, y=169.01, z=-19.11] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.21, y=169.01, z=-19.11]
+[10Dec2024 01:39:43.303] [Server thread/DEBUG] [pointblank/]: 83303 handling client fire request
+[10Dec2024 01:39:43.303] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2036098536 to 12
+[10Dec2024 01:39:43.303] [Server thread/DEBUG] [pointblank/]: 83303 - obtained hit result in 0ms
+[10Dec2024 01:39:43.303] [Server thread/DEBUG] [pointblank/]: 83303 obtained hit results
+[10Dec2024 01:39:43.303] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@3cf0faa4
+[10Dec2024 01:39:43.304] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.20, y=169.01, z=-19.11] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.20, y=169.01, z=-19.11]
+[10Dec2024 01:39:43.654] [Server thread/DEBUG] [pointblank/]: 83654 handling client fire request
+[10Dec2024 01:39:43.654] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2036098536 to 11
+[10Dec2024 01:39:43.654] [Server thread/DEBUG] [pointblank/]: 83654 - obtained hit result in 0ms
+[10Dec2024 01:39:43.654] [Server thread/DEBUG] [pointblank/]: 83654 obtained hit results
+[10Dec2024 01:39:43.654] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6522b420
+[10Dec2024 01:39:43.654] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.19, y=169.01, z=-19.11] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.19, y=169.01, z=-19.11]
+[10Dec2024 01:39:43.852] [Server thread/DEBUG] [pointblank/]: 83852 handling client fire request
+[10Dec2024 01:39:43.852] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2036098536 to 10
+[10Dec2024 01:39:43.853] [Server thread/DEBUG] [pointblank/]: 83853 - obtained hit result in 0ms
+[10Dec2024 01:39:43.853] [Server thread/DEBUG] [pointblank/]: 83853 obtained hit results
+[10Dec2024 01:39:43.853] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@65202c26
+[10Dec2024 01:39:43.853] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.19, y=169.01, z=-19.11] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.19, y=169.01, z=-19.11]
+[10Dec2024 01:39:43.953] [Server thread/DEBUG] [pointblank/]: 83953 handling client fire request
+[10Dec2024 01:39:43.953] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 2036098536 to 9
+[10Dec2024 01:39:43.953] [Server thread/DEBUG] [pointblank/]: 83953 - obtained hit result in 0ms
+[10Dec2024 01:39:43.954] [Server thread/DEBUG] [pointblank/]: 83954 obtained hit results
+[10Dec2024 01:39:43.954] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@6b3e6028
+[10Dec2024 01:39:43.954] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.19, y=169.01, z=-19.11] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-42.19, y=169.01, z=-19.11]
+[10Dec2024 01:40:02.012] [Server thread/DEBUG] [pointblank/]: 2012 handling client fire request
+[10Dec2024 01:40:02.012] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 766189375 to 8
+[10Dec2024 01:40:02.012] [Server thread/DEBUG] [pointblank/]: 2012 - obtained hit result in 0ms
+[10Dec2024 01:40:02.012] [Server thread/DEBUG] [pointblank/]: 2012 obtained hit results
+[10Dec2024 01:40:02.012] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@2603a1c
+[10Dec2024 01:40:02.013] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-75.72, y=164.91, z=6.41] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-75.72, y=164.91, z=6.41]
+[10Dec2024 01:40:02.253] [Server thread/DEBUG] [pointblank/]: 2253 handling client fire request
+[10Dec2024 01:40:02.253] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 766189375 to 7
+[10Dec2024 01:40:02.253] [Server thread/DEBUG] [pointblank/]: 2253 - obtained hit result in 0ms
+[10Dec2024 01:40:02.253] [Server thread/DEBUG] [pointblank/]: 2253 obtained hit results
+[10Dec2024 01:40:02.253] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@40fdc175
+[10Dec2024 01:40:02.253] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-75.76, y=164.91, z=6.47] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-75.76, y=164.91, z=6.47]
+[10Dec2024 01:40:02.404] [Server thread/DEBUG] [pointblank/]: 2404 handling client fire request
+[10Dec2024 01:40:02.404] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 766189375 to 6
+[10Dec2024 01:40:02.404] [Server thread/DEBUG] [pointblank/]: 2404 - obtained hit result in 0ms
+[10Dec2024 01:40:02.404] [Server thread/DEBUG] [pointblank/]: 2404 obtained hit results
+[10Dec2024 01:40:02.405] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@35774109
+[10Dec2024 01:40:02.405] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-75.77, y=164.91, z=6.49] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-75.77, y=164.91, z=6.49]
+[10Dec2024 01:40:02.805] [Server thread/DEBUG] [pointblank/]: 2805 handling client fire request
+[10Dec2024 01:40:02.806] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 766189375 to 5
+[10Dec2024 01:40:02.806] [Server thread/DEBUG] [pointblank/]: 2806 - obtained hit result in 0ms
+[10Dec2024 01:40:02.806] [Server thread/DEBUG] [pointblank/]: 2806 obtained hit results
+[10Dec2024 01:40:02.806] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@40d0e27f
+[10Dec2024 01:40:02.807] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-75.79, y=164.91, z=6.53] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-75.79, y=164.91, z=6.53]
+[10Dec2024 01:40:03.104] [Server thread/DEBUG] [pointblank/]: 3104 handling client fire request
+[10Dec2024 01:40:03.104] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 766189375 to 4
+[10Dec2024 01:40:03.104] [Server thread/DEBUG] [pointblank/]: 3104 - obtained hit result in 0ms
+[10Dec2024 01:40:03.104] [Server thread/DEBUG] [pointblank/]: 3104 obtained hit results
+[10Dec2024 01:40:03.104] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3ec0ea8d
+[10Dec2024 01:40:03.105] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-75.79, y=164.91, z=6.53] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-75.79, y=164.91, z=6.53]
+[10Dec2024 01:40:03.302] [Server thread/DEBUG] [pointblank/]: 3302 handling client fire request
+[10Dec2024 01:40:03.302] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 766189375 to 3
+[10Dec2024 01:40:03.303] [Server thread/DEBUG] [pointblank/]: 3303 - obtained hit result in 0ms
+[10Dec2024 01:40:03.303] [Server thread/DEBUG] [pointblank/]: 3303 obtained hit results
+[10Dec2024 01:40:03.303] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@7d8bfad6
+[10Dec2024 01:40:03.304] [Server thread/DEBUG] [pointblank/]: Creating state 48c18f36-e068-416e-ad9b-d40b1c8ff153
+[10Dec2024 01:40:03.306] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-75.79, y=164.91, z=6.53] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-75.79, y=164.91, z=6.53]
+[10Dec2024 01:40:03.466] [Server thread/DEBUG] [pointblank/]: 3466 handling client fire request
+[10Dec2024 01:40:03.466] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 766189375 to 2
+[10Dec2024 01:40:03.466] [Server thread/DEBUG] [pointblank/]: 3466 - obtained hit result in 0ms
+[10Dec2024 01:40:03.466] [Server thread/DEBUG] [pointblank/]: 3466 obtained hit results
+[10Dec2024 01:40:03.466] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@74bd2ea7
+[10Dec2024 01:40:03.467] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-75.79, y=164.91, z=6.53] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-75.79, y=164.91, z=6.53]
+[10Dec2024 01:40:03.705] [Server thread/DEBUG] [pointblank/]: 3705 handling client fire request
+[10Dec2024 01:40:03.706] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 766189375 to 1
+[10Dec2024 01:40:03.706] [Server thread/DEBUG] [pointblank/]: 3706 - obtained hit result in 0ms
+[10Dec2024 01:40:03.706] [Server thread/DEBUG] [pointblank/]: 3706 obtained hit results
+[10Dec2024 01:40:03.706] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@d6c901c
+[10Dec2024 01:40:03.707] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-75.79, y=164.91, z=6.53] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-75.79, y=164.91, z=6.53]
+[10Dec2024 01:40:03.903] [Server thread/DEBUG] [pointblank/]: 3903 handling client fire request
+[10Dec2024 01:40:03.904] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 766189375 to 0
+[10Dec2024 01:40:03.904] [Server thread/DEBUG] [pointblank/]: 3904 - obtained hit result in 0ms
+[10Dec2024 01:40:03.904] [Server thread/DEBUG] [pointblank/]: 3904 obtained hit results
+[10Dec2024 01:40:03.904] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@1bd50e90
+[10Dec2024 01:40:03.904] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-75.79, y=164.91, z=6.53] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-75.79, y=164.91, z=6.53]
+[10Dec2024 01:40:04.008] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 766189375 to 20
+[10Dec2024 01:40:07.742] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:40:13.754] [Server thread/DEBUG] [pointblank/]: 13754 handling client fire request
+[10Dec2024 01:40:13.754] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 766189375 to 19
+[10Dec2024 01:40:13.755] [Server thread/DEBUG] [pointblank/]: 13755 - obtained hit result in 0ms
+[10Dec2024 01:40:13.755] [Server thread/DEBUG] [pointblank/]: 13755 obtained hit results
+[10Dec2024 01:40:13.755] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@5bd89e91
+[10Dec2024 01:40:13.755] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-56.05, y=157.93, z=19.44] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-56.05, y=157.93, z=19.44]
+[10Dec2024 01:40:14.204] [Server thread/DEBUG] [pointblank/]: 14204 handling client fire request
+[10Dec2024 01:40:14.204] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 766189375 to 18
+[10Dec2024 01:40:14.204] [Server thread/DEBUG] [pointblank/]: 14204 - obtained hit result in 0ms
+[10Dec2024 01:40:14.205] [Server thread/DEBUG] [pointblank/]: 14205 obtained hit results
+[10Dec2024 01:40:14.205] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@6a127186
+[10Dec2024 01:40:14.205] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-55.53, y=157.93, z=19.57] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-55.53, y=157.93, z=19.57]
+[10Dec2024 01:40:14.811] [Server thread/DEBUG] [pointblank/]: 14811 handling client fire request
+[10Dec2024 01:40:14.812] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 766189375 to 17
+[10Dec2024 01:40:14.812] [Server thread/DEBUG] [pointblank/]: 14812 - obtained hit result in 0ms
+[10Dec2024 01:40:14.812] [Server thread/DEBUG] [pointblank/]: 14812 obtained hit results
+[10Dec2024 01:40:14.812] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@3da3d00c
+[10Dec2024 01:40:14.812] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-55.26, y=157.93, z=19.63] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-55.26, y=157.93, z=19.63]
+[10Dec2024 01:40:15.304] [Server thread/DEBUG] [pointblank/]: 15304 handling client fire request
+[10Dec2024 01:40:15.304] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 766189375 to 16
+[10Dec2024 01:40:15.304] [Server thread/DEBUG] [pointblank/]: 15304 - obtained hit result in 0ms
+[10Dec2024 01:40:15.304] [Server thread/DEBUG] [pointblank/]: 15304 obtained hit results
+[10Dec2024 01:40:15.304] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.EntityHitResult@718c5ebd
+[10Dec2024 01:40:15.304] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-55.18, y=157.93, z=19.63] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-55.18, y=157.93, z=19.63]
+[10Dec2024 01:40:16.005] [Server thread/DEBUG] [pointblank/]: 16005 handling client fire request
+[10Dec2024 01:40:16.005] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 766189375 to 15
+[10Dec2024 01:40:16.005] [Server thread/DEBUG] [pointblank/]: 16005 - obtained hit result in 0ms
+[10Dec2024 01:40:16.005] [Server thread/DEBUG] [pointblank/]: 16005 obtained hit results
+[10Dec2024 01:40:16.005] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@450c86eb
+[10Dec2024 01:40:16.005] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-55.17, y=157.93, z=19.63] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-55.17, y=157.93, z=19.63]
+[10Dec2024 01:40:16.569] [Server thread/DEBUG] [pointblank/]: 16569 handling client fire request
+[10Dec2024 01:40:16.570] [Server thread/DEBUG] [pointblank/]: Setting ammo in stack 766189375 to 14
+[10Dec2024 01:40:16.570] [Server thread/DEBUG] [pointblank/]: 16570 - obtained hit result in 0ms
+[10Dec2024 01:40:16.570] [Server thread/DEBUG] [pointblank/]: 16570 obtained hit results
+[10Dec2024 01:40:16.570] [Server thread/DEBUG] [pointblank/]: Executing hit target task for hit result net.minecraft.world.phys.BlockHitResult@32451ad1
+[10Dec2024 01:40:16.571] [Server thread/DEBUG] [pointblank/]: ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-55.14, y=157.93, z=19.59] sends hit scan notification to ServerPlayer['tomy--'/115, l='ServerLevel[world]', x=-55.14, y=157.93, z=19.59]
+[10Dec2024 01:40:21.740] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:40:33.589] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:40:33.739] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:40:47.341] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:40:47.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:40:47.343] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:41:05.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [tomy--: Removed every effect from tomy--]
+[10Dec2024 01:41:14.840] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:john but it was marked as removed already
+[10Dec2024 01:41:38.890] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:42:25.688] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:42:39.023] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:42:43.438] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:42:58.390] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:john but it was marked as removed already
+[10Dec2024 01:44:17.252] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 01:44:17.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 01:44:20.989] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:44:34.689] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:44:53.740] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:44:59.298] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:happy but it was marked as removed already
+[10Dec2024 01:45:25.438] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:45:29.537] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:45:37.032] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:45:37.033] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:45:37.033] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:46:07.587] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:weeping_soul but it was marked as removed already
+[10Dec2024 01:46:08.538] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:46:22.539] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:46:49.889] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:47:05.239] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:47:05.239] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:47:05.240] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:47:06.638] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:jumpscare_starter but it was marked as removed already
+[10Dec2024 01:47:08.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomy-- moved too quickly! -1.1950911636485841,-11.41212377312769,-0.1349530652100377
+[10Dec2024 01:47:10.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomy-- moved too quickly! -1.8000410090357377,-10.408991223757738,-0.39018174720187204
+[10Dec2024 01:47:11.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tomy-- moved too quickly! -1.3353185183721479,-10.529193645291315,-0.33869622991538506
+[10Dec2024 01:47:27.239] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:47:37.388] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:47:58.389] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:49:17.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 01:49:17.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 01:49:19.170] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:49:19.170] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:49:19.171] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
