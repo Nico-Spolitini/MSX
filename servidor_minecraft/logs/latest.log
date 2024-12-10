@@ -819,3 +819,69 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Dec2024 01:28:14.697] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
 [10Dec2024 01:28:17.538] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:peeping_tom_idle but it was marked as removed already
 [10Dec2024 01:28:36.487] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:29:22.089] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:29:22.339] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:29:25.311] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 244156150, path: 739444e6-46fb-43fb-a770-63d0759ee765/precision_scope/specter/air, elements: {}} attempted to update empty stack 0 air
+[10Dec2024 01:29:25.313] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 622207436, path: 739444e6-46fb-43fb-a770-63d0759ee765/air, elements: {}} attempted to update empty stack 0 air
+[10Dec2024 01:29:45.738] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:jumpscare_starter but it was marked as removed already
+[10Dec2024 01:30:01.490] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:30:02.539] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:30:10.739] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:30:29.989] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:30:39.288] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:weeping_soul but it was marked as removed already
+[10Dec2024 01:30:41.639] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:john but it was marked as removed already
+[10Dec2024 01:30:43.584] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1381191288, path: 739444e6-46fb-43fb-a770-63d0759ee765/air, elements: {}} attempted to update empty stack 0 air
+[10Dec2024 01:31:02.554] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1332934395, path: 739444e6-46fb-43fb-a770-63d0759ee765/precision_scope/specter/air, elements: {}} attempted to update empty stack 0 air
+[10Dec2024 01:31:02.555] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1332934395, path: 739444e6-46fb-43fb-a770-63d0759ee765/precision_scope/specter/air, elements: {}} attempted to update empty stack 0 air
+[10Dec2024 01:31:02.555] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 743434455, path: 739444e6-46fb-43fb-a770-63d0759ee765/air, elements: {}} attempted to update empty stack 0 air
+[10Dec2024 01:31:02.557] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1332934395, path: 739444e6-46fb-43fb-a770-63d0759ee765/precision_scope/specter/air, elements: {}} attempted to update empty stack 0 air
+[10Dec2024 01:31:02.557] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1332934395, path: 739444e6-46fb-43fb-a770-63d0759ee765/precision_scope/specter/air, elements: {}} attempted to update empty stack 0 air
+[10Dec2024 01:31:02.557] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 743434455, path: 739444e6-46fb-43fb-a770-63d0759ee765/air, elements: {}} attempted to update empty stack 0 air
+[10Dec2024 01:31:04.551] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1332934395, path: 739444e6-46fb-43fb-a770-63d0759ee765/precision_scope/specter/air, elements: {}} attempted to update empty stack 0 air
+[10Dec2024 01:31:04.552] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 1332934395, path: 739444e6-46fb-43fb-a770-63d0759ee765/precision_scope/specter/air, elements: {}} attempted to update empty stack 0 air
+[10Dec2024 01:31:04.552] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 743434455, path: 739444e6-46fb-43fb-a770-63d0759ee765/air, elements: {}} attempted to update empty stack 0 air
+[10Dec2024 01:31:05.011] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 677696804, path: 739444e6-46fb-43fb-a770-63d0759ee765/precision_scope/air, elements: {}} attempted to update empty stack 0 air
+[10Dec2024 01:31:05.011] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 743434455, path: 739444e6-46fb-43fb-a770-63d0759ee765/air, elements: {}} attempted to update empty stack 0 air
+[10Dec2024 01:31:05.013] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 677696804, path: 739444e6-46fb-43fb-a770-63d0759ee765/precision_scope/air, elements: {}} attempted to update empty stack 0 air
+[10Dec2024 01:31:05.013] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 743434455, path: 739444e6-46fb-43fb-a770-63d0759ee765/air, elements: {}} attempted to update empty stack 0 air
+[10Dec2024 01:31:07.252] [Server thread/ERROR] [pointblank/]: Virtual inventory {vi: 743434455, path: 739444e6-46fb-43fb-a770-63d0759ee765/air, elements: {}} attempted to update empty stack 0 air
+[10Dec2024 01:31:08.595] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:31:09.488] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:31:33.339] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:31:33.538] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:jumpscare_starter but it was marked as removed already
+[10Dec2024 01:31:36.689] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:31:51.388] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:jumpscare_starter but it was marked as removed already
+[10Dec2024 01:32:09.639] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:32:22.039] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:john but it was marked as removed already
+[10Dec2024 01:32:27.588] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:32:59.490] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:33:27.839] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:33:30.888] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:33:34.539] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:33:42.488] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:zombie_mimic_alternate but it was marked as removed already
+[10Dec2024 01:33:46.839] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:jumpscare_starter but it was marked as removed already
+[10Dec2024 01:33:49.338] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:34:17.187] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:34:24.688] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:happy but it was marked as removed already
+[10Dec2024 01:34:25.239] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:happy but it was marked as removed already
+[10Dec2024 01:34:25.339] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:34:32.988] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:35:30.590] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:35:34.838] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:35:38.587] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:weeping_soul but it was marked as removed already
+[10Dec2024 01:35:39.940] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:jumpscare_starter but it was marked as removed already
+[10Dec2024 01:35:41.939] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:weeping_soul but it was marked as removed already
+[10Dec2024 01:35:50.638] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:36:26.988] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:jumpscare_starter but it was marked as removed already
+[10Dec2024 01:36:45.390] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:36:50.090] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:37:09.288] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:happy but it was marked as removed already
+[10Dec2024 01:37:19.354] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:37:41.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:38:09.740] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity smile:weeping_soul but it was marked as removed already
+[10Dec2024 01:38:19.990] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:phase_trigger but it was marked as removed already
+[10Dec2024 01:38:35.988] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:38:35.989] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity john_mod_reborn:baby_john but it was marked as removed already
+[10Dec2024 01:39:00.637] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:39:00.890] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
+[10Dec2024 01:39:01.239] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity peeping_tom:creepy_ambient but it was marked as removed already
