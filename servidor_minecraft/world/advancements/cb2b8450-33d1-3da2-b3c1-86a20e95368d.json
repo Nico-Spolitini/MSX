@@ -8,11 +8,15 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-09 02:08:33 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-12-16 00:55:46 +0000",
+      "minecraft:taiga": "2024-12-16 00:53:25 +0000",
       "minecraft:cherry_grove": "2024-12-09 02:09:41 +0000",
       "minecraft:beach": "2024-12-16 00:47:45 +0000",
       "minecraft:river": "2024-12-09 02:11:20 +0000",
       "minecraft:dripstone_caves": "2024-12-09 03:01:19 +0000",
       "minecraft:forest": "2024-12-16 00:23:50 +0000",
+      "minecraft:lush_caves": "2024-12-16 00:59:53 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-16 00:59:09 +0000",
       "minecraft:frozen_peaks": "2024-12-09 16:28:20 +0000",
       "minecraft:meadow": "2024-12-16 00:20:04 +0000",
       "minecraft:plains": "2024-12-09 02:10:00 +0000"
@@ -1407,6 +1411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-16 00:55:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-12-16 00:27:24 +0000"
@@ -1431,9 +1441,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-16 01:00:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-16 00:51:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-16 00:55:40 +0000"
     },
     "done": true
   },
@@ -1473,9 +1495,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-16 00:55:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-16 00:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-12-16 00:55:40 +0000"
+    },
+    "done": true
+  },
+  "sasquatch:danger_in_the_woods": {
+    "criteria": {
+      "danger_in_the_woods": "2024-12-16 00:55:46 +0000"
     },
     "done": true
   },
@@ -1527,9 +1567,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-12-16 00:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-16 00:55:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-16 00:51:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-12-16 00:55:40 +0000"
     },
     "done": true
   },
@@ -1539,9 +1597,27 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-16 00:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-16 00:55:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2024-12-16 00:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-12-16 00:55:40 +0000"
     },
     "done": true
   },
@@ -1608,6 +1684,12 @@
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2024-12-16 00:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-16 00:55:40 +0000"
     },
     "done": true
   },
