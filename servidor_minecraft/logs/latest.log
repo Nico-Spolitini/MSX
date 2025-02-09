@@ -1,68 +1,43 @@
-[19:11:25] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:11:29] [ServerMain/INFO]: Loaded 1290 recipes
-[19:11:30] [ServerMain/INFO]: Loaded 1399 advancements
-[19:11:31] [Server thread/INFO]: Starting minecraft server version 1.21
-[19:11:31] [Server thread/INFO]: Loading properties
-[19:11:31] [Server thread/INFO]: Default game type: SURVIVAL
-[19:11:31] [Server thread/INFO]: Generating keypair
-[19:11:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:11:31] [Server thread/INFO]: Using epoll channel type
-[19:11:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:11:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:11:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:11:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:11:31] [Server thread/INFO]: Preparing level "world"
-[19:11:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:11:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:11:41] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:11:41] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[19:11:42] [Server thread/INFO]: Time elapsed: 1329 ms
-[19:11:42] [Server thread/INFO]: Done (10.398s)! For help, type "help"
-[19:15:01] [Server thread/INFO]: lautaaa09[/127.0.35.235:49287] logged in with entity id 72 at (10.51626006749406, 67.0, -13.965988514069023)
-[19:15:01] [Server thread/INFO]: lautaaa09 joined the game
-[19:25:16] [Server thread/INFO]: lautaaa09 has made the advancement [Acquire Hardware]
-[19:25:21] [Server thread/INFO]: lautaaa09 has made the advancement [Isn't It Iron Pick]
-[19:25:26] [Server thread/INFO]: lautaaa09 has made the advancement [Diamonds!]
-[19:25:54] [Server thread/INFO]: lautaaa09 has made the advancement [Sweet Dreams]
-[19:27:55] [Server thread/INFO]: Ezequiel213[/127.151.96.192:46231] logged in with entity id 1548 at (-7.5, 73.0, -7.5)
-[19:27:55] [Server thread/INFO]: Ezequiel213 joined the game
-[19:28:21] [Server thread/INFO]: [Not Secure] <Ezequiel213> donde estas
-[19:28:28] [Server thread/INFO]: [Not Secure] <lautaaa09> en una mina
-[19:28:36] [Server thread/INFO]: [Not Secure] <lautaaa09> ahora te llamo por dds
-[19:28:43] [Server thread/INFO]: [Not Secure] <Ezequiel213> bueno
-[19:29:34] [Server thread/INFO]: [Not Secure] <lautaaa09> entra el server q ternermos
-[19:29:39] [Server thread/INFO]: [Not Secure] <lautaaa09> q tiene una fot de choclo
-[19:29:52] [Server thread/INFO]: Ezequiel213 lost connection: Disconnected
-[19:29:52] [Server thread/INFO]: Ezequiel213 left the game
-[19:30:04] [Server thread/INFO]: lautaaa09 has made the advancement [Suit Up]
-[19:30:48] [Server thread/INFO]: Ezequiel213[/127.151.96.192:41699] logged in with entity id 2105 at (-25.69999998807907, 32.0, -40.35211177731917)
-[19:30:48] [Server thread/INFO]: Ezequiel213 joined the game
-[19:31:10] [Server thread/INFO]: Ezequiel213 tried to swim in lava
-[19:32:54] [Server thread/INFO]: lautaaa09 has made the advancement [Monster Hunter]
-[19:33:00] [Server thread/INFO]: Ezequiel213 has made the advancement [Stone Age]
-[19:33:43] [Server thread/INFO]: lautaaa09 burned to death
-[19:33:50] [Server thread/INFO]: Ezequiel213 has made the advancement [Getting an Upgrade]
-[19:36:53] [Server thread/INFO]: Ezequiel213 has made the advancement [Sweet Dreams]
-[19:36:53] [Server thread/INFO]: [Not Secure] <lautaaa09> z
-[19:36:53] [Server thread/INFO]: [Not Secure] <lautaaa09> z
-[19:36:53] [Server thread/INFO]: [Not Secure] <lautaaa09> z
-[19:36:54] [Server thread/INFO]: [Not Secure] <lautaaa09> z
-[19:36:54] [Server thread/INFO]: [Not Secure] <lautaaa09> z
-[19:36:54] [Server thread/INFO]: [Not Secure] <lautaaa09> ed
-[19:36:54] [Server thread/INFO]: [Not Secure] <lautaaa09> e
-[19:36:55] [Server thread/INFO]: [Not Secure] <lautaaa09> ea
-[19:36:55] [Server thread/INFO]: [Not Secure] <lautaaa09> e
-[19:36:55] [Server thread/INFO]: [Not Secure] <lautaaa09> ae
-[19:36:55] [Server thread/INFO]: [Not Secure] <lautaaa09> ws
-[19:36:55] [Server thread/INFO]: [Not Secure] <lautaaa09> ea
-[19:36:55] [Server thread/INFO]: [Not Secure] <lautaaa09> wd
-[19:36:55] [Server thread/INFO]: lautaaa09 lost connection: Kicked for spamming
-[19:36:55] [Server thread/INFO]: lautaaa09 left the game
-[19:36:55] [Server thread/WARN]: handleDisconnection() called twice
-[19:37:00] [Server thread/INFO]: baffico[/127.115.30.107:54441] logged in with entity id 3369 at (3.5, 71.0, 6.5)
-[19:37:00] [Server thread/INFO]: baffico joined the game
-[19:37:01] [Server thread/INFO]: lautaaa09[/127.0.35.235:32999] logged in with entity id 3439 at (-72.5, -1.0, -82.5)
-[19:37:01] [Server thread/INFO]: lautaaa09 joined the game
-[19:39:47] [Server thread/INFO]: lautaaa09 has made the advancement [Hot Stuff]
-[19:39:57] [Server thread/INFO]: baffico has made the advancement [Stone Age]
-[19:41:31] [Server thread/INFO]: baffico has made the advancement [Getting an Upgrade]
+[19:54:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:54:54] [ServerMain/INFO]: Loaded 1290 recipes
+[19:54:55] [ServerMain/INFO]: Loaded 1399 advancements
+[19:54:57] [Server thread/INFO]: Starting minecraft server version 1.21
+[19:54:57] [Server thread/INFO]: Loading properties
+[19:54:57] [Server thread/INFO]: Default game type: SURVIVAL
+[19:54:57] [Server thread/INFO]: Generating keypair
+[19:54:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:54:57] [Server thread/INFO]: Using epoll channel type
+[19:54:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:54:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:54:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:54:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:54:58] [Server thread/INFO]: Preparing level "world"
+[19:55:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:55:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:55:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:55:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:55:10] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[19:55:11] [Worker-Main-1/INFO]: Preparing spawn area: 26%
+[19:55:11] [Worker-Main-1/INFO]: Preparing spawn area: 26%
+[19:55:11] [Worker-Main-1/INFO]: Preparing spawn area: 30%
+[19:55:11] [Server thread/INFO]: Time elapsed: 3228 ms
+[19:55:12] [Server thread/INFO]: Done (13.495s)! For help, type "help"
+[19:55:14] [Server thread/INFO]: Ezequiel213[/127.151.96.192:36683] logged in with entity id 42 at (-4.424212154201192, 29.0, -84.12975089657841)
+[19:55:15] [Server thread/INFO]: Ezequiel213 joined the game
+[19:55:16] [Server thread/INFO]: tomyy-[/127.40.163.123:55715] logged in with entity id 114 at (36.69999998807907, 41.0, -63.667749343472174)
+[19:55:16] [Server thread/INFO]: tomyy- joined the game
+[19:55:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[19:55:36] [Server thread/INFO]: tomyy- has made the advancement [Acquire Hardware]
+[19:55:56] [Server thread/INFO]: tomyy- has made the advancement [Isn't It Iron Pick]
+[19:55:59] [Server thread/INFO]: lautaaa09[/127.0.35.235:45309] logged in with entity id 280 at (-27.752131708338652, 57.00133597911215, -75.76409371222327)
+[19:55:59] [Server thread/INFO]: lautaaa09 joined the game
+[19:56:30] [Server thread/INFO]: tomyy- lost connection: Disconnected
+[19:56:30] [Server thread/INFO]: tomyy- left the game
+[19:56:54] [Server thread/INFO]: tomyy-[/127.40.163.123:56709] logged in with entity id 447 at (34.879298912989796, 38.0, -67.69999998807907)
+[19:56:54] [Server thread/INFO]: tomyy- joined the game
+[19:57:31] [Server thread/INFO]: tomyy- has made the advancement [Suit Up]
+[19:58:01] [Server thread/INFO]: Ezequiel213 has made the advancement [Acquire Hardware]
+[19:58:05] [Server thread/INFO]: Ezequiel213 was shot by Skeleton
+[19:58:16] [Server thread/INFO]: Ezequiel213 was shot by Skeleton
+[19:59:30] [Server thread/INFO]: lautaaa09 lost connection: Disconnected
+[19:59:30] [Server thread/INFO]: lautaaa09 left the game
