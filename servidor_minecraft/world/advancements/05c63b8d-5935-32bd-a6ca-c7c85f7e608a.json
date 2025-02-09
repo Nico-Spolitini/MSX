@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:beach": "2025-02-09 19:38:09 +0000",
       "minecraft:forest": "2025-02-09 19:44:56 +0000",
+      "minecraft:birch_forest": "2025-02-09 20:32:44 +0000",
       "minecraft:plains": "2025-02-09 19:27:56 +0000"
     },
     "done": false
@@ -327,11 +328,14 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-09 20:25:14 +0000",
       "mutton": "2025-02-09 19:45:02 +0000",
       "apple": "2025-02-09 19:36:48 +0000",
+      "bread": "2025-02-09 20:20:44 +0000",
       "cooked_chicken": "2025-02-09 19:58:47 +0000",
       "cooked_mutton": "2025-02-09 19:39:47 +0000",
-      "cooked_beef": "2025-02-09 19:50:23 +0000"
+      "cooked_beef": "2025-02-09 19:50:23 +0000",
+      "beef": "2025-02-09 20:30:12 +0000"
     },
     "done": false
   },
@@ -571,6 +575,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-02-09 20:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-09 20:24:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 19:58:01 +0000"
@@ -580,6 +596,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 19:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-02-09 20:24:02 +0000"
     },
     "done": true
   },
@@ -607,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-02-09 20:24:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_chestplate": "2025-02-09 20:08:22 +0000"
@@ -625,9 +653,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-02-09 20:28:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 19:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-02-09 20:24:02 +0000"
     },
     "done": true
   },
@@ -739,9 +779,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-02-09 20:27:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 19:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-02-09 20:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-09 20:28:31 +0000"
     },
     "done": true
   },
@@ -793,6 +851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-02-09 20:27:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 19:58:01 +0000"
@@ -823,6 +887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-02-09 20:27:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-02-09 20:13:03 +0000"
@@ -838,6 +908,18 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-02-09 20:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-02-09 20:27:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-09 20:27:35 +0000"
     },
     "done": true
   },
@@ -865,9 +947,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-02-09 20:27:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-02-09 19:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-09 20:27:35 +0000"
     },
     "done": true
   },
