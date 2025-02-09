@@ -8,8 +8,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-02-09 19:58:39 +0000",
+      "minecraft:dark_forest": "2025-02-09 20:49:23 +0000",
       "minecraft:forest": "2025-02-09 19:59:05 +0000",
       "minecraft:river": "2025-02-09 19:59:17 +0000",
+      "minecraft:meadow": "2025-02-09 20:47:00 +0000",
+      "minecraft:birch_forest": "2025-02-09 20:45:58 +0000",
       "minecraft:plains": "2025-02-09 01:18:20 +0000"
     },
     "done": false
@@ -1477,6 +1480,48 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-02-09 20:16:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-02-09 20:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-09 20:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-09 20:49:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-09 20:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-09 20:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-09 20:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-09 20:46:24 +0000"
     },
     "done": true
   },
