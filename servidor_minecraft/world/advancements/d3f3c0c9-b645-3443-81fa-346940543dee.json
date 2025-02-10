@@ -1564,6 +1564,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-02-10 21:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-10 21:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-02-10 21:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-10 21:31:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-10 21:34:35 +0000"
@@ -1576,21 +1600,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-02-10 21:31:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-10 21:34:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-02-10 21:31:14 +0000"
     },
     "done": true
   },
@@ -1618,12 +1630,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-02-10 21:31:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-10 21:34:35 +0000"
@@ -1633,12 +1639,6 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-10 21:34:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-02-10 21:31:21 +0000"
     },
     "done": true
   },
