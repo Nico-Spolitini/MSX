@@ -1,31 +1,105 @@
-[21:29:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:29:48] [ServerMain/INFO]: Loaded 1290 recipes
-[21:29:49] [ServerMain/INFO]: Loaded 1399 advancements
-[21:29:50] [Server thread/INFO]: Starting minecraft server version 1.21
-[21:29:50] [Server thread/INFO]: Loading properties
-[21:29:50] [Server thread/INFO]: Default game type: SURVIVAL
-[21:29:50] [Server thread/INFO]: Generating keypair
-[21:29:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:29:50] [Server thread/INFO]: Using epoll channel type
-[21:29:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:29:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:29:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:29:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:29:50] [Server thread/INFO]: Preparing level "world"
-[21:30:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:30:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:30:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:30:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:30:05] [Server thread/INFO]: Time elapsed: 1434 ms
-[21:30:05] [Server thread/INFO]: Done (14.818s)! For help, type "help"
-[21:30:13] [Server thread/INFO]: lautaaa09[/127.69.19.96:34021] logged in with entity id 38 at (134.19733388604942, 74.0, 2189.699999988079)
-[21:30:13] [Server thread/INFO]: lautaaa09 joined the game
-[21:30:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[21:30:27] [Server thread/INFO]: [Not Secure] <lautaaa09> lautaaa09
-[21:31:14] [Server thread/INFO]: lautaaa09 has made the advancement [Ice Bucket Challenge]
-[21:38:25] [Server thread/INFO]: lautaaa09 lost connection: Disconnected
-[21:38:25] [Server thread/INFO]: lautaaa09 left the game
-[21:38:39] [Server thread/INFO]: lautaaa09[/127.69.19.96:45867] logged in with entity id 1426 at (68.30796641121832, 62.110764312744145, 1782.569352626408)
-[21:38:39] [Server thread/INFO]: lautaaa09 joined the game
-[21:42:39] [Server thread/INFO]: lautaaa09 lost connection: Disconnected
-[21:42:39] [Server thread/INFO]: lautaaa09 left the game
+[03:11:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:12:03] [ServerMain/INFO]: Loaded 1290 recipes
+[03:12:03] [ServerMain/INFO]: Loaded 1399 advancements
+[03:12:04] [Server thread/INFO]: Starting minecraft server version 1.21
+[03:12:04] [Server thread/INFO]: Loading properties
+[03:12:04] [Server thread/INFO]: Default game type: SURVIVAL
+[03:12:04] [Server thread/INFO]: Generating keypair
+[03:12:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:12:04] [Server thread/INFO]: Using epoll channel type
+[03:12:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:12:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:12:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:12:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:12:04] [Server thread/INFO]: Preparing level "world"
+[03:12:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:12:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:12:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:12:11] [Server thread/INFO]: Time elapsed: 849 ms
+[03:12:11] [Server thread/INFO]: Done (6.398s)! For help, type "help"
+[03:13:38] [Server thread/INFO]: /advancement (grant|revoke)
+[03:13:38] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[03:13:38] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[03:13:38] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[03:13:38] [Server thread/INFO]: /clear [<targets>]
+[03:13:38] [Server thread/INFO]: /clone (<begin>|from)
+[03:13:38] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[03:13:38] [Server thread/INFO]: /data (merge|get|remove|modify)
+[03:13:38] [Server thread/INFO]: /datapack (enable|disable|list)
+[03:13:38] [Server thread/INFO]: /debug (start|stop|function)
+[03:13:38] [Server thread/INFO]: /defaultgamemode <gamemode>
+[03:13:38] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[03:13:38] [Server thread/INFO]: /effect (clear|give)
+[03:13:38] [Server thread/INFO]: /me <action>
+[03:13:38] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[03:13:38] [Server thread/INFO]: /experience (add|set|query)
+[03:13:38] [Server thread/INFO]: /xp -> experience
+[03:13:38] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[03:13:38] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[03:13:38] [Server thread/INFO]: /forceload (add|remove|query)
+[03:13:38] [Server thread/INFO]: /function <name> [<arguments>|with]
+[03:13:38] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[03:13:38] [Server thread/INFO]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[03:13:38] [Server thread/INFO]: /give <targets> <item> [<count>]
+[03:13:38] [Server thread/INFO]: /help [<command>]
+[03:13:38] [Server thread/INFO]: /item (replace|modify)
+[03:13:38] [Server thread/INFO]: /kick <targets> [<reason>]
+[03:13:38] [Server thread/INFO]: /kill [<targets>]
+[03:13:38] [Server thread/INFO]: /list [uuids]
+[03:13:38] [Server thread/INFO]: /locate (structure|biome|poi)
+[03:13:38] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[03:13:38] [Server thread/INFO]: /msg <targets> <message>
+[03:13:38] [Server thread/INFO]: /tell -> msg
+[03:13:38] [Server thread/INFO]: /w -> msg
+[03:13:38] [Server thread/INFO]: /particle <name> [<pos>]
+[03:13:38] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[03:13:38] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[03:13:38] [Server thread/INFO]: /random (value|roll|reset)
+[03:13:38] [Server thread/INFO]: /reload
+[03:13:38] [Server thread/INFO]: /recipe (give|take)
+[03:13:38] [Server thread/INFO]: /return (<value>|fail|run)
+[03:13:38] [Server thread/INFO]: /ride <target> (mount|dismount)
+[03:13:38] [Server thread/INFO]: /say <message>
+[03:13:38] [Server thread/INFO]: /schedule (function|clear)
+[03:13:38] [Server thread/INFO]: /scoreboard (objectives|players)
+[03:13:38] [Server thread/INFO]: /seed
+[03:13:38] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[03:13:38] [Server thread/INFO]: /spawnpoint [<targets>]
+[03:13:38] [Server thread/INFO]: /setworldspawn [<pos>]
+[03:13:38] [Server thread/INFO]: /spectate [<target>]
+[03:13:38] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[03:13:38] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[03:13:38] [Server thread/INFO]: /summon <entity> [<pos>]
+[03:13:38] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[03:13:38] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[03:13:38] [Server thread/INFO]: /teammsg <message>
+[03:13:38] [Server thread/INFO]: /tm -> teammsg
+[03:13:38] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[03:13:38] [Server thread/INFO]: /tp -> teleport
+[03:13:38] [Server thread/INFO]: /tellraw <targets> <message>
+[03:13:38] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
+[03:13:38] [Server thread/INFO]: /time (set|add|query)
+[03:13:38] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[03:13:38] [Server thread/INFO]: /trigger <objective> [add|set]
+[03:13:38] [Server thread/INFO]: /weather (clear|rain|thunder)
+[03:13:38] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[03:13:38] [Server thread/INFO]: /jfr (start|stop)
+[03:13:38] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[03:13:38] [Server thread/INFO]: /banlist [ips|players]
+[03:13:38] [Server thread/INFO]: /ban <targets> [<reason>]
+[03:13:38] [Server thread/INFO]: /deop <targets>
+[03:13:38] [Server thread/INFO]: /op <targets>
+[03:13:38] [Server thread/INFO]: /pardon <targets>
+[03:13:38] [Server thread/INFO]: /pardon-ip <target>
+[03:13:38] [Server thread/INFO]: /perf (start|stop)
+[03:13:38] [Server thread/INFO]: /save-all [flush]
+[03:13:38] [Server thread/INFO]: /save-off
+[03:13:38] [Server thread/INFO]: /save-on
+[03:13:38] [Server thread/INFO]: /setidletimeout <minutes>
+[03:13:38] [Server thread/INFO]: /stop
+[03:13:38] [Server thread/INFO]: /transfer <hostname> [<port>]
+[03:13:38] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[03:14:02] [Server thread/INFO]: lautaaa09[/127.69.19.96:40803] logged in with entity id 38 at (46.57073882404606, 62.110764312744145, 1742.5770386054905)
+[03:14:02] [Server thread/INFO]: lautaaa09 joined the game
+[03:14:14] [Server thread/INFO]: lautaaa09 lost connection: Disconnected
+[03:14:14] [Server thread/INFO]: lautaaa09 left the game
